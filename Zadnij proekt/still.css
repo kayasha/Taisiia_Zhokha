@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {color: rgba(128, 128, 0);
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color:beige;
+	padding: 10px;}
+h1, h2, h3, h4 {font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color:rgba(85, 107, 47);}
+span{color: rgb(255,0,255);}
+a:link {color: rgb(224, 255, 255);
+	background-color: white;
+	pading: 5px;
+	line-height: 40px;
+	border:1px #000000; }
+.pozadina {
+	background-image:url("background.jpg");
+background-size: 100%;
+}
+img {
+	height: 200px;
+}
+div {color: rgba(95, 158, 160);}
+a:hover {
+	background-color: darkgray;}
+ul, ol {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: rgba(50, 205, 50)}
+.drugapoz {
+	background-color: azure;
+}
